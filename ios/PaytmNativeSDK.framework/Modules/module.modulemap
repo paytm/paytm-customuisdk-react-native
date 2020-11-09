@@ -1,0 +1,11 @@
+framework module PaytmNativeSDK {
+  umbrella header "PaytmNativeSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module PaytmNativeSDK.Swift {
+    header "PaytmNativeSDK-Swift.h"
+    requires objc
+}

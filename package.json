@@ -1,0 +1,29 @@
+{
+  "name": "paytm-customuisdk-react-native",
+  "version": "1.0.8",
+  "description": "Paytm Custom ui sdk plugin for custom ui sdk",
+  "main": "src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "^16.5.0",
+    "react-native": "^0.57.1"
+  },
+  "files": [
+    "src",
+    "android",
+    "ios",
+    "paytm-customuisdk-react-native.podspec"
+  ],
+  "keywords": [
+    "customuisdk",
+    "react-native",
+    "iOS",
+    "Android",
+    "paytm"
+  ],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/paytm/paytm-customuisdk-react-native"
+}
