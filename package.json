@@ -1,6 +1,6 @@
 {
   "name": "paytm-customuisdk-react-native",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Paytm Custom ui sdk plugin for custom ui sdk",
   "main": "src/index.tsx",
   "scripts": {
